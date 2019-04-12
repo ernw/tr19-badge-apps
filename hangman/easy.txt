@@ -1,0 +1,56 @@
+Acess Control
+Advanced\nLinux Sound\nArchitecture
+Application\nProgramming\nInterface
+Artificial\nIntelligence
+Augmented\nReality
+Authentication
+big data
+buffer\noverflow
+Central\nProcessing\nUnit
+Cloud\ncomputing
+Compact Disc
+Cross-Site\nRequest\nForgery
+Cross-Site\nScripting
+crypto\ncurrencies
+Cyberspace
+data mining
+Denial of\nService
+development
+Deserialization
+Domain Name\nSystem
+Dynamic Host\nConfiguration\nProtocol
+Dynamic Link\nLibrary
+GNU\'s Not Unix
+Hard Disk\nDrive
+High\nAvailability
+Integrated\ndevelopment\nenvironment
+Internet of\nThings
+Internet\nProtocol
+Internet\nRelay Chat
+Infrastructure-as-a-service
+Light-Emitting\nDiode
+Machine\nLearning
+Make the world\na safer Place
+Near Field\nCommunication
+post quatum\nsecurity
+Quality of\nService
+Quantum\nComputing
+Random Access\nMemory
+Regular\nExpression
+Remote Code\nExecution
+Security\nMisconfiguration
+Software\nDevelopment\nKit
+Software-\ndefined\nnetworking
+Time To Live
+Transmission\nControl\nProtocol
+Transport\nLayer\nSecurity
+Two-factor\nauthentication
+User Datagram\nProtocol
+Universal\nSerial Bus
+Virtual\nMachine
+Virtual\nPrivate\nNetwork
+Virtual\nReality
+Voice over\nInternet\nProtocol
+We are\nTroopers
+World Wide Web
+XML External\nEntity

@@ -1,0 +1,29 @@
+a = 4
+b = 8 = lo
+e = 3
+g = 6
+i = 1
+t = 7
+m = 44
+s = 5
+q = 9
+z = 2
+
+
+0 = O or D
+1 = I or L
+2 = Z or e
+3 = E
+4 = A or h
+5 = S
+6 = G or b
+7 = J or T
+8 = B or X
+
+8432-0680-8231-7161-2411
+BAEZ-OGBO-BZEI-JIGI-ZAII
+
+OBFUSCATION überlegen
+
+------------
+9 = g or J  sollte nicht dabei sein
